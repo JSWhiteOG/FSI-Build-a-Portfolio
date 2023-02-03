@@ -3,3 +3,10 @@ div {
     text-align:center;
     color:lightpink;
 }
+
+
+.main section {
+    border: 5px dashed mediumaquamarine;
+    text-align: Center;
+    font-size: 30px;
+}
