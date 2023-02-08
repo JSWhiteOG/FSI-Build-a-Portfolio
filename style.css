@@ -1,10 +1,9 @@
-div {
-    body {
+body {
     background-color: midnightblue;
     text-align: center;
-    font-style:lightpink;
+    color:lightpink;
 }
-}
+
 
 .main section {
     border: 5px dashed mediumaquamarine;
