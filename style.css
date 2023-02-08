@@ -1,11 +1,4 @@
-div{
+div {
     background-color: rgb(12, 12, 105);
     text-align: center;
     }
-
-
-.main section {
-    border: 5px dashed mediumaquamarine;
-    text-align: Center;
-    font-size: 30px;
-}
