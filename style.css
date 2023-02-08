@@ -1,9 +1,10 @@
 div {
+    body {
     background-color: midnightblue;
-    text-align:center;
-    color:lightpink;
+    text-align: center;
+    font-style:lightpink;
 }
-
+}
 
 .main section {
     border: 5px dashed mediumaquamarine;
